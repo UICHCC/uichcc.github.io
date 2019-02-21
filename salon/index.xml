@@ -12,16 +12,16 @@
     
     
     <item>
-      <title>Speaking of Git - By Minyong Li</title>
-      <link>https://uichcc.com/2018-1111-ljj-collaboratingandconverging-copy/</link>
+      <title>Speaking of Git 2.0 - By Minyong Li</title>
+      <link>https://uichcc.com/2019-0224-lmy-speakingofgit/</link>
       <pubDate>Sun, 24 Feb 2019 19:00:00 +0800</pubDate>
       
-      <guid>https://uichcc.com/2018-1111-ljj-collaboratingandconverging-copy/</guid>
-      <description>[COMING EVENT]
+      <guid>https://uichcc.com/2019-0224-lmy-speakingofgit/</guid>
+      <description>[COMING SALON]
 Topic: Speaking of Git
 Speaker: Minyong Li (CST Year 3)
-Location: T8-306 (BNU-HKBU UIC)
-Time: 2019.02.24 19:00-21 :00</description>
+Location: T8-305 (BNU-HKBU UIC)
+Time: 2019.02.24 19:00-21:00</description>
     </item>
     
     <item>
@@ -57,19 +57,6 @@ Abstract: The modern cryptography and corresponding tools has been empowering vi
       <pubDate>Sun, 11 Nov 2018 20:00:00 +0800</pubDate>
       
       <guid>https://uichcc.com/2018-1111-ljj-collaboratingandconverging/</guid>
-      <description>Topic: Collaborating and Converging
-Speaker: Terence Lau (STAT Year 3)
-Location: T8-306 (BNU-HKBU UIC)
-Time: 2018.11.11 20:00-21:00
-Resources: Slide (This slide is made with reveal.js, please download the whole folder and open the index.html to start.)</description>
-    </item>
-    
-    <item>
-      <title>Collaborating and Converging - By Terence Lau</title>
-      <link>https://uichcc.com/2019-0224-lmy-speakingofgit/</link>
-      <pubDate>Sun, 11 Nov 2018 20:00:00 +0800</pubDate>
-      
-      <guid>https://uichcc.com/2019-0224-lmy-speakingofgit/</guid>
       <description>Topic: Collaborating and Converging
 Speaker: Terence Lau (STAT Year 3)
 Location: T8-306 (BNU-HKBU UIC)
