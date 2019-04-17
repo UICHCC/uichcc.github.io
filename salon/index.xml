@@ -6,10 +6,23 @@
     <description>Recent content on UICHCC Computer Club | Technological Salon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 19:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2019 19:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://uichcc.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recursion - By Qizheng Wang</title>
+      <link>https://uichcc.com/2019-0421-wqz-recursion/</link>
+      <pubDate>Sun, 21 Apr 2019 19:00:00 +0800</pubDate>
+      
+      <guid>https://uichcc.com/2019-0421-wqz-recursion/</guid>
+      <description>[COMING SALON]
+Topic: Recursion
+Speaker: Qizheng Wang (CST Year 2)
+Location: T8-305 (BNU-HKBU UIC)
+Time: 2019.04.21 19:00-21:00</description>
+    </item>
     
     <item>
       <title>Speaking of Git 2.0 - By Minyong Li</title>
@@ -26,10 +39,10 @@ Time: 2019.02.24 19:00-21:00</description>
     
     <item>
       <title>Bootstrap Crash Course - By Zhenghao Wu</title>
-      <link>https://uichcc.com/2019-1118-wzh-bscc/</link>
+      <link>https://uichcc.com/2018-1118-wzh-bscc/</link>
       <pubDate>Sun, 18 Nov 2018 20:00:00 +0800</pubDate>
       
-      <guid>https://uichcc.com/2019-1118-wzh-bscc/</guid>
+      <guid>https://uichcc.com/2018-1118-wzh-bscc/</guid>
       <description>Topic: Bootstrap Crash Course
 Speaker: Zhenghao Wu (CST Year 3)
 Location: T8-306 (BNU-HKBU UIC)
