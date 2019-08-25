@@ -7,32 +7,31 @@ body {
   color: #5a5a5a;
   height: 100%;
 }
-
 /* CUSTOMIZE THE CAROUSEL
--------------------------------------------------- */
+  -------------------------------------------------- */
 
 .nav-container {
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 15px;
-    padding-left: 15px;
-    width: 100%;
-    background-color: #343a40;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 100%;
+  background-color: #343a40;
 }
 
 .navbar-icon {
-    display: inline-block;
-    margin-right: 2rem;
-    font-size: 1.25rem;
-    line-height: inherit;
-    white-space: nowrap;
+  display: inline-block;
+  margin-right: 2rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
 }
 
-.nav-text-padding{
+.nav-text-padding {
   padding-left: 2rem;
 }
 
-.thx{
+.thx {
   text-align: center;
 }
 
@@ -46,23 +45,25 @@ body {
   color: #777777;
 }
 
-
-.table{
+.table {
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
 
-.headingIcon > i{
+.headingIcon > i {
   margin-right: 20px;
 }
 
-.contact{
+.contact {
   padding: 1rem;
 }
-.contact > .fa{
+.contact > .fab {
   margin: 0 0 2rem 0;
 }
-.contact > h4{
+.contact > .fas {
+  margin: 0 0 2rem 0;
+}
+.contact > h4 {
   padding-bottom: 1rem;
 }
 /* Carousel base class */
@@ -76,15 +77,14 @@ body {
 }
 
 .carousel-caption-dark {
-  color: #FFF;
-  text-shadow: 0 0 1rem rgba(0,0,0,1);
+  color: #fff;
+  text-shadow: 0 0 1rem rgba(0, 0, 0, 1);
 }
 
 .carousel-caption-bright {
   color: #000;
-  text-shadow: 0 0 0.5rem rgba(255,255,255,1);
+  text-shadow: 0 0 0.5rem rgba(255, 255, 255, 1);
 }
-
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
@@ -103,9 +103,8 @@ body {
   visibility: hidden;
 }
 
-
 /* MARKETING CONTENT
--------------------------------------------------- */
+  -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
 .marketing .col-lg-4 {
@@ -116,16 +115,16 @@ body {
   font-weight: normal;
 }
 .marketing .col-lg-4 p {
-  margin-right: .75rem;
-  margin-left: .75rem;
+  margin-right: 0.75rem;
+  margin-left: 0.75rem;
 }
 
-.projects > .row{
+.projects > .row {
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
 /* Featurettes
-------------------------- */
+  ------------------------- */
 
 .featurette-divider {
   margin: 4rem 0; /* Space out the Bootstrap <hr> more */
@@ -135,12 +134,11 @@ body {
 .featurette-heading {
   font-weight: 300;
   line-height: 1;
-  letter-spacing: -.05rem;
+  letter-spacing: -0.05rem;
 }
 
-
 /* RESPONSIVE CSS
--------------------------------------------------- */
+  -------------------------------------------------- */
 
 @media (min-width: 40em) {
   /* Bump up size of carousel content */
@@ -159,7 +157,6 @@ body {
   .featurette-heading {
   }
 }
-
 
 .bs-callout {
   padding: 20px;
@@ -183,7 +180,7 @@ body {
 .bs-callout code {
   border-radius: 3px;
 }
-.bs-callout+.bs-callout {
+.bs-callout + .bs-callout {
   margin-top: -5px;
 }
 
